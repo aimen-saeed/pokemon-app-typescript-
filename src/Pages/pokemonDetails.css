@@ -1,0 +1,35 @@
+.pokemon-details{
+  margin: auto;
+}
+
+.pokemon-image-d{
+   margin: auto;
+   max-width: 15%;
+   max-height: 15%;
+}
+
+.pokemon-card{
+   width: 30%;
+   height: 30%;
+   margin: auto;
+}
+
+
+.bordered-table {
+   border-collapse: collapse;
+   width: 25%;
+ }
+ 
+ .bordered-table tr {
+   border-bottom: 1px solid #ccc;
+ }
+ 
+ .bordered-table th,
+ .bordered-table td {
+   padding: 8px;
+   text-align: left;
+ }
+ 
+ .bordered-table th {
+   font-weight: bolder;
+ }

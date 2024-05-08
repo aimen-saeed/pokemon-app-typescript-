@@ -1,0 +1,25 @@
+.pokemon-card {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.pokemon-image {
+  width: 50%;
+  height: 25%;
+}
+
+.pokemon-list {
+
+  display: flex;
+  flex-direction: column;
+  width: 30%;
+  height: 30%;
+  margin: auto;
+}
+
+.link {
+  text-decoration: none;
+  color: black;
+}
